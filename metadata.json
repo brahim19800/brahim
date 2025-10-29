@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GreenLife AI",
+  "description": "A bilingual (Arabic–English) mobile application interface that helps users care for plants from planting to full growth, featuring AI-powered pest detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
